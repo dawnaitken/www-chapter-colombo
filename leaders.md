@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Lohita Perera] (mailto://lohitha.perera@owasp.org)
+* [Danishka Navin] (mailto://danishka.navin@owasp.org)
+* [Isuru Senadheer] (mailto://isuru.senadheera@owasp.org)
